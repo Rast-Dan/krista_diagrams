@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T08:29:37.217Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ZDSs_Cm_mQpFhZIYcUvE" version="20.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-23T08:30:45.717Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="g9veuhIOD_tVG-8C6Al3" version="20.3.1" type="github" pages="3">
   <diagram id="75vvSjuyPExEmgrXF6YK" name="Диаграмма использования">
     <mxGraphModel dx="3903" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -623,7 +623,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0DdmiLprHSgQmtmuB8-u" name="Диаграмма развертывания">
-    <mxGraphModel dx="3076" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2602" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -707,7 +707,7 @@
         <mxCell id="Ml2M5unGtpm4JPG_dsAE-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=circle;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ml2M5unGtpm4JPG_dsAE-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-420" y="260" as="sourcePoint" />
-            <mxPoint x="-400" y="180" as="targetPoint" />
+            <mxPoint x="-400" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ml2M5unGtpm4JPG_dsAE-40" value="" style="html=1;rounded=0;" vertex="1" parent="1">
@@ -737,7 +737,7 @@
         <mxCell id="Ml2M5unGtpm4JPG_dsAE-62" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=circle;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ml2M5unGtpm4JPG_dsAE-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-430" y="182.5" as="sourcePoint" />
-            <mxPoint x="-400" y="298" as="targetPoint" />
+            <mxPoint x="-400" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ml2M5unGtpm4JPG_dsAE-63" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;exitX=0;exitY=0;exitDx=37.5;exitDy=200;exitPerimeter=0;" edge="1" parent="1" source="Ml2M5unGtpm4JPG_dsAE-7">
